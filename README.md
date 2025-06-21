@@ -137,7 +137,7 @@
   <p>
     📧 <strong>Email:</strong> irvyandl18@gmail.com<br>
     🌐 <strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/irvin-prado-6961b1363">Visitar Perfil</a><br>
-    📁 <strong>GitHub:</strong> <a href="https://drive.google.com/file/d/1v9-x6M14Hnzv-51gK8QJU117O4YBxX-D/view?usp=drive_link">Ver CV para mas detalles</a>
+    📁 <strong>Curriculum:</strong> <a href="https://drive.google.com/file/d/1v9-x6M14Hnzv-51gK8QJU117O4YBxX-D/view?usp=drive_link">Ver CV para mas detalles</a>
   </p>
 </section>
 
