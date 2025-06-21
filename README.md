@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -138,7 +137,7 @@
   <p>
     📧 <strong>Email:</strong> irvyandl18@gmail.com<br>
     🌐 <strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/irvin-prado-6961b1363">Visitar Perfil</a><br>
-    📁 <strong>GitHub:</strong> <a href="https://irvyandl.github.io/Virtual-Assistance-Porfolio/">Ver Sitio</a>
+    📁 <strong>GitHub:</strong> <a href="https://drive.google.com/file/d/1a_4zANNj7p3wGvMgQfOoe-ef9XF-1Jnm/view?usp=drive_link">Ver CV para mas detalles</a>
   </p>
 </section>
 
