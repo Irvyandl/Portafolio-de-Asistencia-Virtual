@@ -113,10 +113,10 @@
   <div class="project">
     <h3>📬 Correo Profesional a Proveedor</h3>
     <p>
-      Basado en una llamada real y actualizaciones internas, redacté un correo profesional en inglés explicando cambios de precios y proponiendo acciones. Este documento refleja mi capacidad de comunicar en entornos reales. (El correo fue traducido del español al inglés para el portafolio).
+      Basado en una llamada real y actualizaciones internas, redacté un correo profesional explicando cambios de precios y proponiendo acciones. Este documento refleja mi capacidad de comunicar en entornos reales.
     </p>
     <p><strong>Habilidades clave:</strong> Redacción formal, síntesis clara, escritura bilingüe, claridad bajo presión.</p>
-    <a href="https://drive.google.com/file/d/187fx0IxGjvZrAJhLYL1GA33_OAPonlFi/view?usp=drive_link">Ver Correo</a>
+    <a href="https://drive.google.com/file/d/1a_4zANNj7p3wGvMgQfOoe-ef9XF-1Jnm/view?usp=drive_link">Ver Correo</a>
   </div>
 </section>
 
